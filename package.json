@@ -1,0 +1,19 @@
+{
+  "name": "countdown-bot",
+  "version": "1.0.0",
+  "description": "Countdown bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Lear",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
